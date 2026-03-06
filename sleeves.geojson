@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.84929937780281,
+          43.43554163895146
+        ]
+      },
+      "properties": {
+        "cluster_id": 0,
+        "n_intersections": 2,
+        "support_pairs": 2
+      }
+    }
+  ]
+}
