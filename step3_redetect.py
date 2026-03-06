@@ -42,7 +42,7 @@ OUT_IMAGES  = os.path.join(OUT_ROOT, "images")
 OUT_LABELS  = os.path.join(OUT_ROOT, "labels")
 OUT_VIS     = os.path.join(OUT_ROOT, "visualized")
 
-GOOGLE_API_KEY   = "AIzaSyAal2PH1aIbKywxU2JbjxNRIoBrSPBXinY"
+GOOGLE_API_KEY   = ""
 REQ_SIZE         = (640, 640)
 
 MODEL_PATH = r"./yoloe.pt"
