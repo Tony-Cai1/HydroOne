@@ -20,7 +20,7 @@ except Exception:
 
 # ============== CONFIG ==============
 
-API_KEY = "AIzaSyAal2PH1aIbKywxU2JbjxNRIoBrSPBXinY"
+API_KEY = ""
 
 START_LAT, START_LON= 45.333399, -79.223486
 END_LAT, END_LON    = 45.339132, -79.220991
